@@ -129,22 +129,22 @@ video{
 	}
 
 @-webkit-keyframes fondo {
-	from {background-color:rgba(220,230,200,1);}
+	from {background-color:rgba(260,230,200,1);}
 	to {background-color:rgba(231,150,230,1);}
 }
 
 @-moz-keyframes fondo {
-	from {background-color:rgba(220,230,200,1);}
+	from {background-color:rgba(260,230,200,1);}
 	to {background-color:rgba(231,150,230,1);}
 }
 
 @-ms-keyframes fondo {
-	from {background-color:rgba(220,230,200,1);}
+	from {background-color:rgba(260,230,200,1);}
 	to {background-color:rgba(231,150,230,1);}
 }
 
 @keyframes fondo {
-	from {background-color:rgba(220,230,200,1);}
+	from {background-color:rgba(260,230,200,1);}
 	to {background-color:rgba(231,150,230,1);}
 }
 
